@@ -4,5 +4,5 @@
 * The main file that is used to run the program is MainWindow.py
 
 **LINK FOR THE VIDEO EXPLANATION OF THIS APPLICATION** (google drive)
-* https://drive.google.com/file/d/1RQ-b-DU89B2JEagp-QGO796eZABNHU5Y/view?usp=share_link
+* https://drive.google.com/drive/folders/0BzTFa90OLJI-VExkRkkxdFNScFU?resourcekey=0-dTwKtoocs7mfJLZPN0bHpg&usp=share_link
 
